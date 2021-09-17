@@ -1,0 +1,9 @@
+.ipynb_checkpoints/*
+**/__pycache__/**
+*.png
+*.jpg
+*.log
+events.out.*
+*.ckpt
+*.pth
+*.csv
